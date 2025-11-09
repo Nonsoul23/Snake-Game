@@ -26,7 +26,11 @@ Key	Action
 ➡️	Move Right
 
 🖼️ Game Preview
+![Login Form Preview](sg.png)
 
+![Login Form Preview](sg1.png)
+
+![Login Form Preview](sg2.png)
 
 
 
